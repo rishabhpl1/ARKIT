@@ -1,0 +1,21 @@
+.button-background{
+    margin-top: 5vh;
+    padding: 15px;
+    height: 40vh;
+    background-color: #b9c7bb;
+}
+.button{
+display: inline-block; 
+padding: 0.35em 1.2em;   
+border: 0.1em solid #FFFFFF;
+box-sizing: border-box;
+text-decoration:none;
+font-family:'Roboto',sans-serif;
+font-weight:300;
+text-align:center;
+transition: all 0.3s;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
